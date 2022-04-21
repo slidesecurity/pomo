@@ -1,4 +1,4 @@
-module github.com/rwxrob/bonzai-pomo
+module github.com/rwxrob/pomo
 
 go 1.18
 
