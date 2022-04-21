@@ -1,5 +1,4 @@
-module github.com/rwxrob/pomo
-
+module github.com/slidesecurity/pomo
 go 1.18
 
 require (
