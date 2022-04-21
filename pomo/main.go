@@ -1,7 +1,7 @@
 package main
 
 import (
-	pomo "github.com/rwxrob/bonzai-pomo"
+	pomo "github.com/slidesecurity/pomo"
 )
 
 func main() {
